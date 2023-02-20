@@ -1,1 +1,1 @@
-# Blog-website
+A Company/institution blog website 
